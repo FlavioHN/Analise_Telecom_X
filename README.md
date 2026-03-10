@@ -45,28 +45,28 @@ A taxa de `Churn` de **26,6%** serve como nossa métrica principal. A matriz de 
 
 | Distribuição de Churn (Baseline) | Matriz de Correlação Geral |
 | :---: | :---: |
-| ![Churn](images/Distribuicao_Churn.png) | ![Heatmap](images/Matriz_corr.png) |
+| ![Churn](imagens/Distribuicao_Churn.png) | ![Heatmap](imagens/Matriz_corr.png) |
 
 ### 2. Infraestrutura e Serviços Agregados
 Identificamos que a Fibra Óptica é um ponto de alta volatilidade, enquanto serviços de segurança retêm o cliente.
 
 | Impacto da Tecnologia de Internet | Valor dos Serviços de Segurança/Suporte |
 | :---: | :---: |
-| ![Infra](images/Servicos_Infra.png) | ![Agregados](images/Servicos_Agregados.png) |
+| ![Infra](imagens/Servicos_Infra.png) | ![Agregados](imagens/Servicos_Agregados.png) |
 
 ### 3. Perfil do Cliente e Comportamento Digital
 Clientes sem dependentes e usuários de fatura digital/cheque eletrônico apresentam maior propensão à troca de operadora.
 
 | Análise Demográfica (Dependentes/Parceiros) | Impacto da Fatura Digital e Pagamento |
 | :---: | :---: |
-| ![Demografia](images/Analise_Demografica.png) | ![Financeiro](images/Analise_Contratual_Fianceira.png) |
+| ![Demografia](imagens/Analise_Demografica.png) | ![Financeiro](imagens/Analise_Contratual_Fianceira.png) |
 
 ### 4. Ciclo de Vida e Custos Mensais
 O risco de saída é crítico no início da jornada. O valor da mensalidade (Monthly Charges) é um gatilho direto para o cancelamento.
 
 | Distribuição de Mensalidades (Monthly Charges) | Correlação Tenure vs. Churn |
 | :---: | :---: |
-| ![Mensalidade](images/Analise_Tenure_Custos_1.png) | ![Tenure](images/Corr_Tenure_Custo.png) |
+| ![Mensalidade](imagens/Analise_Tenure_Custos_1.png) | ![Tenure](imagens/Corr_Tenure_Custo.png) |
 
 ---
 ## 🔍 Principais Achados (Insights)
@@ -117,4 +117,4 @@ O risco de saída é crítico no início da jornada. O valor da mensalidade (Mon
 ---
 
 **Desenvolvido por:** Flávio Lima  
-**Contato:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WBruni/analise-churn-telecom-x)
+**Contato:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlavioHN/Analise_Telecom_X)
